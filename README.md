@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulhannan-123&label=Profile%20views&color=0e75b6&style=flat" alt="abdulhannan-123" /> </p>
 
-- 🔭 I’m currently working on [Q3 logics](iblagh)
+- 🔭 I’m currently working on **Q3logics.inc**
 
 - 💬 Ask me about **node js, flutter, dart, OOP and much more**
 
-- 📫 How to reach me **abdulhanna@gmail.com**
+- 📫 How to reach me **abdulhanna2201@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
