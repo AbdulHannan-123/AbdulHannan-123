@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abdul Hannan</h1>
 <h3 align="center">A passionate flutter developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulhannan-123&label=Profile%20views&color=0e75b6&style=flat" alt="abdulhannan-123" /> </p>
-
 - 🔭 I’m currently working on **Q3logics.inc**
 
 - 💬 Ask me about **node js, flutter, dart, OOP and much more**
